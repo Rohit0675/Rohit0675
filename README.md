@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**Rohit0675/Rohit0675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Rohit](https://yourwebsite.com/), a passionate developer from [Pune](https://maps.google.com/?q=Your+Location). Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning [Node.js].
+- 💬 Ask me about [Web Development].
+
+## 📫 Let's Connect
+
+- Twitter: [@YourTwitterHandle](https://twitter.com/imRo675)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/rohit-talmale-)
+- Instagram: [Your Website](https://www.instagram.com/rohitt.talmale/)
+
+## 🤝 Contributions
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit0675&show_icons=true)
+
+![Your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+
+Feel free to reach out and connect with me! 😊
+
