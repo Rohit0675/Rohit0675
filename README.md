@@ -9,9 +9,9 @@ I'm [Rohit](https://yourwebsite.com/), a passionate developer from [Pune](https:
 
 ## 📫 Let's Connect
 
-- Twitter: [@YourTwitterHandle](https://twitter.com/imRo675)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/rohit-talmale-)
-- Instagram: [Your Website](https://www.instagram.com/rohitt.talmale/)
+- Twitter: [imRo675](https://twitter.com/imRo675)
+- LinkedIn: [Rohit Talmale](www.linkedin.com/in/rohit-talmale-)
+- Instagram: [rohitt.talmale](https://www.instagram.com/rohitt.talmale/)
 
 ## 🤝 Contributions
 
